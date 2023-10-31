@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in games, hacking, security information and sports.
 
-- 🌱 I’m currently learning english, javascript, python and more.
+- 🌱 I’m currently learning computer science in Federal University of Minas Gerais.
 
 - 📫 How to reach me - sxvennone@gmail.com
 
