@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning computer science in Federal University of Minas Gerais.
 
-- 📫 How to reach me - sxvennone@gmail.com
+- 📫 How to reach me - dsettx@gmail.com
 
 <!---
 DS3ttx/DS3ttx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
